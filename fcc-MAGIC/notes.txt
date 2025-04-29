@@ -1,0 +1,4 @@
+header=None, df.columns = []
+names=col_names
+np.vectorize(callback)(array)
+pd.factorize(series)[0]
